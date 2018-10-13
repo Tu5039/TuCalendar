@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  MainPage.xaml.cpp
+  MonthView.xaml.cpp
+  WeekView.xaml.cpp
+  WelcomePage.xaml.cpp
+  lunar.cpp
+  XamlTypeInfo.g.cpp
+  TuCalendar.vcxproj -> F:\baiduyun\备份\TuCalendar\ARM\Debug\TuCalendar\TuCalendar.exe
